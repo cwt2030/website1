@@ -1,6 +1,39 @@
+
 body{
-    background: #e8e8e8;
+    margin: 0%;
+    padding: 0%;
 }
-p{
-    text-align:center;
+
+header{
+    background: black;
+    height: 300px;
+    color: aliceblue;
+    
+
 }
+section{
+height:1250px;
+}
+.box{
+   float: left;
+    border: rgb(145, 43, 43);
+    height: 450px;
+    width: 300px;
+    margin: 20px;
+    border-style:inset;
+    text-align: center;
+
+}
+.box img{
+    width: 300px;
+}
+
+footer{
+    height: 300px;
+    background: rgb(109, 109, 165);
+    
+}
+header{
+    background-color:  #1a8cff ;
+}
+
