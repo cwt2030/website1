@@ -8,7 +8,7 @@ header{
     background: black;
     height: 300px;
     color: aliceblue;
-    
+     text-align: center;
 
 }
 section{
@@ -35,8 +35,5 @@ footer{
 }
 header{
     background-color:  #1a8cff ;
-}
-.menu{
-    text-align: center;
 }
 
